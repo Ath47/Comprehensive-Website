@@ -1,0 +1,54 @@
+.contact-info {
+    font-size: 1.2rem;
+    color: #666;
+    text-align: center;
+}
+
+.contact-form {
+    max-width: 500px;
+    margin: auto;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.form-control:focus {
+    border-color: #ffc107;
+    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.25);
+}
+
+textarea.form-control {
+    resize: none;
+}
+
+.contact-toggle-btn {
+    margin-bottom: 20px;
+}
+
+.contact-toggle-btn button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.contact-toggle-btn button:hover {
+    background-color: #0056b3;
+}
+
+.contact-toggle-btn.active button {
+    background-color: #dc3545;
+}
+
+.contact-toggle-btn.active button:hover {
+    background-color: #bd2130;
+}

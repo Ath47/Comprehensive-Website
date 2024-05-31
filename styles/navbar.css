@@ -1,0 +1,37 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffc107 !important;
+}
+
+.navigation {
+    background-color: #007bff;
+    text-align: center;
+    display: flex;
+    padding: 15px;
+}
+
+.container1 {
+    display: flex;
+    text-align: center;
+}
+
+li {
+    padding: 5px;
+    margin: 2px;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

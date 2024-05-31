@@ -1,0 +1,28 @@
+.btn-primary2 {
+    color: white;
+    margin-top: 5px;
+    width: 100%;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary2:hover {
+    color: white;
+    background-color: #ffca28;
+    border-color: #ffca28;
+}
+
+.btn-primary1 {
+    color: white;
+    margin-top: 5px;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary1:hover {
+    color: white;
+    background-color: #ffca28;
+    border-color: #ffca28;
+}

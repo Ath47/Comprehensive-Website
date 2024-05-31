@@ -1,0 +1,32 @@
+.review-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+    position: relative;
+}
+
+.review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.review-header h4 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.stars {
+    color: #ffc107;
+    font-size: 1.2rem;
+}
+
+.review-container p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333;
+}
